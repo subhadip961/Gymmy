@@ -1,4 +1,4 @@
-# Gym App
+# Gymmy App
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -49,4 +49,4 @@ Before you start using the Gym App, make sure you have the following prerequisit
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/gym-app.git
+   git clone https://github.com/yourUserName/Gymmy.git
