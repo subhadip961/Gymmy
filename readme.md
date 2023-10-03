@@ -1,4 +1,4 @@
-# Gym App
+# Gymmy App
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Welcome to the Gym App! This app is designed to help users track their fitness progress, plan workouts, and achieve their fitness goals efficiently. Whether you're a seasoned gym-goer or just getting started on your fitness journey, this app has something for everyone.
+Welcome to the Gymmy App! This app is designed to help users track their fitness progress, plan workouts, and achieve their fitness goals efficiently. Whether you're a seasoned gym-goer or just getting started on your fitness journey, this app has something for everyone.
 
 ## Features
 
@@ -49,4 +49,4 @@ Before you start using the Gym App, make sure you have the following prerequisit
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/gym-app.git
+   git clone https://github.com/yourUserName/Gymmy.git
